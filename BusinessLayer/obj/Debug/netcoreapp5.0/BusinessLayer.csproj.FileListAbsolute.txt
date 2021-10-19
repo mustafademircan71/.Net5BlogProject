@@ -1,0 +1,17 @@
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\bin\Debug\netcoreapp5.0\BusinessLayer.deps.json
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\bin\Debug\netcoreapp5.0\BusinessLayer.dll
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\bin\Debug\netcoreapp5.0\ref\BusinessLayer.dll
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\bin\Debug\netcoreapp5.0\BusinessLayer.pdb
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\bin\Debug\netcoreapp5.0\DataAccess.dll
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\bin\Debug\netcoreapp5.0\EntityLayer.dll
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\bin\Debug\netcoreapp5.0\DataAccess.pdb
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\bin\Debug\netcoreapp5.0\EntityLayer.pdb
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\obj\Debug\netcoreapp5.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\obj\Debug\netcoreapp5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\obj\Debug\netcoreapp5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\obj\Debug\netcoreapp5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\obj\Debug\netcoreapp5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\obj\Debug\netcoreapp5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\obj\Debug\netcoreapp5.0\BusinessLayer.dll
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\obj\Debug\netcoreapp5.0\ref\BusinessLayer.dll
+C:\Users\Mustafa\Desktop\CoreDemo\BusinessLayer\obj\Debug\netcoreapp5.0\BusinessLayer.pdb
